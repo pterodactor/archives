@@ -9,7 +9,7 @@ title: "Web App Architecture — Learning Guide"
 
 Static HTML stand-in for Pages (not the Cursor canvas runtime).
 
-- Source: [`notes/empty-window-canvases/web-app-architecture.canvas.tsx`](https://github.com/pterodactor3000/archives/blob/main/notes/empty-window-canvases/web-app-architecture.canvas.tsx)
-- Data: [`notes/empty-window-canvases/web-app-architecture.canvas.data.json`](https://github.com/pterodactor3000/archives/blob/main/notes/empty-window-canvases/web-app-architecture.canvas.data.json)
+- Source: [`notes/empty-window-canvases/web-app-architecture.canvas.tsx`](https://github.com/pterodactor/archives/blob/main/notes/empty-window-canvases/web-app-architecture.canvas.tsx)
+- Data: [`notes/empty-window-canvases/web-app-architecture.canvas.data.json`](https://github.com/pterodactor/archives/blob/main/notes/empty-window-canvases/web-app-architecture.canvas.data.json)
 
 [← vault index](../../index.md)

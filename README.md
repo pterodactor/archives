@@ -59,9 +59,9 @@ Always:
 
 | Source | Staging | Material |
 |--------|---------|----------|
-| [learning](https://github.com/pterodactor3000/learning) | `ingest/learning` | `courses/learning/` |
-| [remote-learning](https://github.com/pterodactor3000/remote-learning) | `ingest/remote-learning` | `courses/remote-learning/` |
-| [stack-notes](https://github.com/pterodactor3000/stack-notes) | `ingest/stack-notes` | `notes/stack-notes/` |
+| [learning](https://github.com/pterodactor/learning) | `ingest/learning` | `courses/learning/` |
+| [remote-learning](https://github.com/pterodactor/remote-learning) | `ingest/remote-learning` | `courses/remote-learning/` |
+| [stack-notes](https://github.com/pterodactor/stack-notes) | `ingest/stack-notes` | `notes/stack-notes/` |
 | empty-window canvases (local) | `ingest/empty-window-canvases` | `notes/empty-window-canvases/` |
 
 Each enabled `git` / `local` source must set `material:` to one of `notes` \| `cheatsheets` \| `courses` \| `drills`.

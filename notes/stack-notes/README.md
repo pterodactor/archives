@@ -26,11 +26,11 @@ builds the production server and serves it on the same port.
 
 ## Clone on cogitator
 
-This project lives at [github.com/pterodactor3000/stack-notes](https://github.com/pterodactor3000/stack-notes). Put it next to `film-browser`, not inside it.
+This project lives at [github.com/pterodactor/stack-notes](https://github.com/pterodactor/stack-notes). Put it next to `film-browser`, not inside it.
 
 ```bash
 cd ~/Projects
-git clone git@github.com:pterodactor3000/stack-notes.git
+git clone git@github.com:pterodactor/stack-notes.git
 cd stack-notes
 pnpm install
 pnpm dev

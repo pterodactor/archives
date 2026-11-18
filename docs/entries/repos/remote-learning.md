@@ -7,7 +7,7 @@ title: "Senior frontend interview workbook"
 
 **Vault path:** `courses/remote-learning` · **landing:** `courses/remote-learning/README.md`
 
-**Upstream:** [https://github.com/pterodactor3000/remote-learning](https://github.com/pterodactor3000/remote-learning)
+**Upstream:** [https://github.com/pterodactor/remote-learning](https://github.com/pterodactor/remote-learning)
 
 Open the live app above — this entry page is a thin pointer, not the destination.
 
