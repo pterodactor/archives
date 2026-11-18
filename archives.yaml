@@ -12,19 +12,19 @@ vault:
 sources:
 - name: learning
   type: git
-  url: https://github.com/pterodactor3000/learning
+  url: https://github.com/pterodactor/learning
   enabled: true
   dest: ingest/learning
   material: courses
 - name: remote-learning
   type: git
-  url: https://github.com/pterodactor3000/remote-learning
+  url: https://github.com/pterodactor/remote-learning
   enabled: true
   dest: ingest/remote-learning
   material: courses
 - name: stack-notes
   type: git
-  url: https://github.com/pterodactor3000/stack-notes
+  url: https://github.com/pterodactor/stack-notes
   enabled: true
   dest: ingest/stack-notes
   material: notes

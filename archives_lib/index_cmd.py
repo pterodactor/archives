@@ -16,7 +16,7 @@ DOCS_DIR = "docs"
 CANVAS_DIR = Path("notes/empty-window-canvases")
 # Folder of canvases is listed as individual canvas entries, not one repo card.
 _CANVAS_SOURCE_NAMES = frozenset({"empty-window-canvases"})
-GITHUB_BLOB_BASE = "https://github.com/pterodactor3000/archives/blob/main"
+GITHUB_BLOB_BASE = "https://github.com/pterodactor/archives/blob/main"
 # Static Jekyll files kept across regenerations (not wiped).
 _DOCS_KEEP = frozenset(
     {

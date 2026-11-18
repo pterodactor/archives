@@ -9,7 +9,7 @@ title: "Senior frontend interview questions"
 
 Static HTML stand-in for Pages (not the Cursor canvas runtime).
 
-- Source: [`notes/empty-window-canvases/senior-frontend-interview-questions.canvas.tsx`](https://github.com/pterodactor3000/archives/blob/main/notes/empty-window-canvases/senior-frontend-interview-questions.canvas.tsx)
-- Data: [`notes/empty-window-canvases/senior-frontend-interview-questions.canvas.data.json`](https://github.com/pterodactor3000/archives/blob/main/notes/empty-window-canvases/senior-frontend-interview-questions.canvas.data.json)
+- Source: [`notes/empty-window-canvases/senior-frontend-interview-questions.canvas.tsx`](https://github.com/pterodactor/archives/blob/main/notes/empty-window-canvases/senior-frontend-interview-questions.canvas.tsx)
+- Data: [`notes/empty-window-canvases/senior-frontend-interview-questions.canvas.data.json`](https://github.com/pterodactor/archives/blob/main/notes/empty-window-canvases/senior-frontend-interview-questions.canvas.data.json)
 
 [← vault index](../../index.md)

@@ -7,7 +7,7 @@ title: "Stack notes"
 
 **Vault path:** `notes/stack-notes` · **landing:** `notes/stack-notes/README.md`
 
-**Upstream:** [https://github.com/pterodactor3000/stack-notes](https://github.com/pterodactor3000/stack-notes)
+**Upstream:** [https://github.com/pterodactor/stack-notes](https://github.com/pterodactor/stack-notes)
 
 Open the live app above — this entry page is a thin pointer, not the destination.
 

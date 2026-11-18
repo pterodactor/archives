@@ -9,6 +9,6 @@ title: "Senior Frontend Interview Learning Map"
 
 Static HTML stand-in for Pages (not the Cursor canvas runtime).
 
-- Source: [`notes/empty-window-canvases/atos-frontend-interview-learning-map.canvas.tsx`](https://github.com/pterodactor3000/archives/blob/main/notes/empty-window-canvases/atos-frontend-interview-learning-map.canvas.tsx)
+- Source: [`notes/empty-window-canvases/atos-frontend-interview-learning-map.canvas.tsx`](https://github.com/pterodactor/archives/blob/main/notes/empty-window-canvases/atos-frontend-interview-learning-map.canvas.tsx)
 
 [← vault index](../../index.md)
